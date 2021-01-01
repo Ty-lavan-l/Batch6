@@ -1,0 +1,17 @@
+
+.color{
+    background-color: black;
+    color: blanchedalmond;
+}
+
+.cardColor{
+    color: black;
+    margin: 10px;
+    justify-content: space-around;
+}
+
+.center{
+    text-align: center;
+    text-decoration: underline;
+    font-style: italic;
+}
